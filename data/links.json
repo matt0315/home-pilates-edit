@@ -1,0 +1,163 @@
+{
+  "updated": "2026-11-25",
+  "notes": "Put an Amazon Associates AU tracking ID in tags.amazon. For Commission Factory, Awin, Impact or other networks, paste the full tracked deep link into products[id].trackedUrl. links.js will swap every data-product-link on the site. Leave trackedUrl empty to use the untagged url field.",
+  "tags": {
+    "amazon": ""
+  },
+  "products": {
+    "zanzer-grip-socks": {
+      "name": "ZANZER grip socks",
+      "url": "https://www.amazon.com.au/dp/B0D3DT4YXK",
+      "trackedUrl": "",
+      "network": "amazon",
+      "retailer": "Amazon AU",
+      "priceAud": 14.44,
+      "priceWasAud": 16.99,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "all-fenix-grip-socks": {
+      "name": "All Fenix grip socks",
+      "url": "https://allfenix.com/products/pilates-grip-socks-black",
+      "trackedUrl": "",
+      "network": "commission-factory",
+      "retailer": "All Fenix",
+      "priceAud": 17,
+      "priceWasAud": 24.99,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "moveactive-crew-socks": {
+      "name": "MoveActive crew grip socks",
+      "url": "https://moveactive.com.au/products/crew-non-slip-grip-socks-black",
+      "trackedUrl": "",
+      "network": "awin",
+      "retailer": "MoveActive",
+      "priceAud": 22.95,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "wildbody-seafree-leggings": {
+      "name": "WildBody SeaFree leggings",
+      "url": "https://www.wildbody.com.au/products/seafree-leggings",
+      "trackedUrl": "",
+      "network": "commission-factory",
+      "retailer": "WildBody",
+      "priceAud": 139,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "lululemon-align-crop": {
+      "name": "lululemon Align crop",
+      "url": "https://www.lululemon.com.au/en-au/p/lululemon-align-no-line-high-rise-crop-21/hff1a0vntw",
+      "trackedUrl": "",
+      "network": "lululemon",
+      "retailer": "lululemon AU",
+      "priceAud": 89,
+      "priceWasAud": 129,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "spopal-pilates-kit": {
+      "name": "Spopal 22-piece kit",
+      "url": "https://www.amazon.com.au/dp/B0GXKHCJX1",
+      "trackedUrl": "",
+      "network": "amazon",
+      "retailer": "Amazon AU",
+      "priceAud": 29.99,
+      "priceWasAud": 39.99,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "larfafa-pilates-kit": {
+      "name": "LarFaFa pilates kit",
+      "url": "https://www.amazon.com.au/dp/B0FTFMN9QN",
+      "trackedUrl": "",
+      "network": "amazon",
+      "retailer": "Amazon AU",
+      "priceAud": 38.35,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "moveactive-pilates-ring": {
+      "name": "MoveActive pilates ring",
+      "url": "https://moveactive.com.au/products/new-pilates-ring-black",
+      "trackedUrl": "",
+      "network": "awin",
+      "retailer": "MoveActive",
+      "priceAud": 45,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "moveactive-resistance-band": {
+      "name": "MoveActive medium band",
+      "url": "https://moveactive.com.au/products/medium-resistance-band-black",
+      "trackedUrl": "",
+      "network": "awin",
+      "retailer": "MoveActive",
+      "priceAud": 28,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "moveactive-reformer-mat": {
+      "name": "MoveActive reformer mat",
+      "url": "https://moveactive.com.au/products/microfibre-reformer-mat-ivory",
+      "trackedUrl": "",
+      "network": "awin",
+      "retailer": "MoveActive",
+      "priceAud": 79,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "manduka-cloud-mat": {
+      "name": "Manduka Cloud pilates mat",
+      "url": "https://manduka.com.au/products/cloud-pilates-mat-12mm",
+      "trackedUrl": "",
+      "network": "direct",
+      "retailer": "Manduka Australia",
+      "priceAud": 229.95,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "lifespan-contour-folding": {
+      "name": "Lifespan Contour Folding",
+      "url": "https://www.lifespanfitness.com.au/products/contour-folding-wooden-pilates-reformer-machine-beige",
+      "trackedUrl": "",
+      "network": "direct",
+      "retailer": "Lifespan Fitness",
+      "priceAud": 1399,
+      "priceWasAud": 2399,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "your-reformer-folding": {
+      "name": "Your Reformer YR Original Folding",
+      "url": "https://yourreformer.com.au/products/pilates-reformer-machine-foldable",
+      "trackedUrl": "",
+      "network": "impact",
+      "retailer": "Your Reformer",
+      "priceAud": 2495,
+      "priceWasAud": 2995,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    },
+    "technogym-reform": {
+      "name": "Technogym Reform",
+      "url": "https://www.technogym.com/en-AU/product/technogym-reform_MSAA-SLS.html",
+      "trackedUrl": "",
+      "network": "commission-factory",
+      "retailer": "Technogym Australia",
+      "priceAud": 18550,
+      "priceWasAud": null,
+      "priceChecked": "2026-11-25",
+      "priceTimezone": "Australia/Perth"
+    }
+  }
+}
